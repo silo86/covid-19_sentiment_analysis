@@ -1,0 +1,2 @@
+# sentiment_analysis_of_covid-19_related_tweets_with_bidirectional_LSTM
+sentiment analysis of covid-19 related tweets using bidirectional LSTM
